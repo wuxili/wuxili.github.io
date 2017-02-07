@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="keywords" content="Yuhao Zhu, UT Austin, utexas"> 
+	<meta name="description" content="Homepage of Yuhao Zhu"> 
+	<title>Research&nbsp;::&nbsp;Yuhao Zhu</title>
+
+	<link href="css/bootstrap.css" rel="stylesheet" />
+	<link href="css/yuhao.css" rel="stylesheet" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9676096-2', 'yuhaozhu.com');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link rel="prefetch" href="pubs/ieeemicro15.html">
+<link rel="prefetch" href="pubs/hpca13.html">
+<link rel="prefetch" href="pubs/isca14.html">
+<link rel="prefetch" href="pubs/hpca15.html">
+
+</head>
+
+<body>
+<div class="container">
+
+<nav class="navbar-default page-header">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+      <a class="navbar-brand" href="index.html">Yuhao Zhu</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="research.html">Research</a></li>
+        <li><a href="pubs.html">Publications</a></li>
+        <li><a href="artifacts.html">Artifacts</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="blog">Blog</a></li>
+        <li><a href="misc.html">Misc</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div>
+
+<img class="pull-right header-thumb" src="imgs/research.png" width="220" alt="me" />
+
+<p>
+The Web has fundamentally shaped how we think, communicate, and innovate. Over the past decade, the Web's role shifted from solely information retrieval (Web 1.0) to providing interactive user experiences (Web 2.0). Now the Web is once again on the cusp of a new evolution driven by today's most pervasive personal computing platform&mdash;mobile devices. I am passionate about enabling next-generation Web applications and thus help shape the landscape of the next era of Web computing.
+</p>
+
+<p>
+My Ph.D. research objective is to design a mobile Web computing substrate that will enable Web applications to deliver satisfactory end-user QoS experience without sacrificing <font color="#BF5700"><b><em>energy-efficiency</em></b></font>. I take a holistic view of the Web stack, spanning applications, Web browser runtime, and the underlying processor architecture. Prior art has mostly focused on performing optimizations within individual layers separately while relying on the traditional interface to other layers. I believe that improving energy-efficiency while continuing to scale performance of the mobile Web requires us to take a <font color="#BF5700"><b><em>cross-layer</em></b></font> approach, that is to enhance the traditional interfaces with new abstractions and to leverage the new interfaces to innovate within each layer.
+</p>
+
+<h3>The Role of CPU in Mobile Web Computing</h3>
+<p>
+Conventional wisdom suggests that network capability is the primary bottleneck in mobile Web browsing. <a href="pubs/ieeemicro15.html">In our work</a>, we find that generational advancements in network technology have reached a point where further improving the network latency only leads to marginal performance improvement with potentially high energy consumption. In contrast, the CPU is starting to have noticeable impact on mobile Web browsing performance and energy consumption. Therefore, I focus my research on the CPU side (i.e., client-side computing), and consider various network capabilities (latency and bandwidth) as constraints for performing optimizations within the computation scope.
+</p>
+
+<h3>Modeling Web Application Performance and Energy</h3>
+<p>
+Prior art treats the Web stack as a whole while regarding webpages simply as input sets to the Web browser application. However, webpages contain richer information than traditional input data sets. Webpages contain full program semantics, put inherent constraints in the processing order, and get modified at runtime with JavaScript. <a href="pubs/hpca13.html">In our work</a>, we treat each webpage as an individual application, and discover that webpages are drastically different from each other due to their inherent variance in contents. We leverage such an insight to accurately predict webpage performance and energy consumption by examining its contents. The predictive models, when built into the Web browser runtime, drastically reduce energy consumption of mobile webpage loading with negligible impact on user QoS experience.
+</p>
+
+<h3>Web Programming Language Extensions</h3>
+<p>
+Web languages are at the interface between applications and Web runtime. Traditionally, Web developers use Web languages to express structure, style, and functionality of an application while relying on the underlying system to perform energy optimizations without compromising user QoS experience. However, without the QoS information, the runtime system might not always effectively reason about the trade-off between QoS and energy consumption. To better guide runtime optimizations, we propose <a href="pubs/pldi16.html">GreenWeb</a>, a set of language extensions that let Web developers express user QoS expectations as program annotations. GreenWeb is based on two new programming abstractions, QoS type and QoS target, that capture two fundamental aspects of user QoS experience. GreenWeb does not pose any constraints on specific runtime implementations but instead supports general energy optimization techniques.
+</p>
+
+<h3>Smart Web Browser Runtime</h3>
+<p>
+Today's mobile processors are becoming extremely heterogeneous. They often combine general-purpose cores that have different performance and energy characteristics with special-purpose domain-specific cores. While the hardware upheaval promises performance and energy improvements for the mobile Web, current Web runtime systems are not designed to fully exploit the capability of the underlying hardware. The main bottleneck is that current runtime-architecture interface merely exposes the hardware as a monolithic sequential execution model to the runtime system while hiding many architecture-level details. Without having a full visibility of the hardware details, current Web runtimes often lead to energy-inefficient decisions or violate user QoS requirement. To bridge the gap between the architecture complexity and the Web runtime, we design a smart Web browser runtime called WebRT. The core of WebRT is a novel <a href="pubs/hpca15.html">event-based scheduling</a> mechanism that properly provisions the hardware resources while guaranteeing satisfactory user QoS experience.
+</p>
+
+<h3>Web-Specific Processor Architecture</h3>
+<p>
+Traditional mobile CPU designs have been largely adopting desktop-like techniques. However, such a design strategy will come to its end because of the stringent energy and thermal constraint that mobile devices impose. We explore, identify, and design a general-purpose mobile CPU architecture customized and specialized for the Web domain. We call it <a href="pubs/isca14.html">WebCore</a>. The WebCore incorporates domain-specific hardware units to exploit the unique computation kernels and communication patterns in mobile Web applications. Our vision of the WebCore is that it will be one of the cores in the multicore SoC that is already common in today's mainstream mobile systems.
+</p>
+<hr>
+<a href="mailto:yzhu@utexas.edu?subject=Re: research">Drop me an email for your comments!</a>
+<br>
+<br>
+</body>
+</html>
