@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Wuxi Li</title>
+    <link>https://wuxili.github.io/project/</link>
+    <description>Recent content in Projects on Wuxi Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wuxi Li</copyright>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UTPlaceF: An FPGA Placement Engine</title>
+      <link>https://wuxili.github.io/project/utplacef/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wuxili.github.io/project/utplacef/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wuxili.github.io/file/UTPlaceF_TCAD17&#34;&gt;Download the Executable (TCAD 2017 Version)&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;https://wuxili.github.io/file/tcad17_placement_solutions.tar.gz&#34;&gt;Download Our Placement Solutions on ISPD 2016 Benchmark Suite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;http://www.ispd.cc/contests/17/downloads/2016/index.html&#34;&gt;Download ISPD 2016 Benchmarks&lt;/a&gt; &lt;br /&gt;
+&lt;a href = &#34;http://www.ispd.cc/contests/16/ispd2016_contest.html&#34;&gt;ISPD 2016 Contest Homepage&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
