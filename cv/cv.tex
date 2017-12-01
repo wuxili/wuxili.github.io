@@ -1,175 +1,38 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Medium Length Professional CV
-% LaTeX Template
-% Version 2.0 (8/5/13)
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% Original author:
-% Trey Hunner (http://www.treyhunner.com/)
-%
-% Important note:
-% This template requires the resume.cls file to be in the same directory as the
-% .tex file. The resume.cls file provides the resume style used for structuring the
-% document.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
-
-\documentclass{resume} % Use the custom resume.cls style
-
+\documentclass{resume}  % Use the custom resume.cls style
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
-\usepackage{tabularx}
-\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
 
-\name{Wuxi Li} % Your name
-\address{University of Texas at Austin \\ Austin, TX 78712} % Your address
-\address{wuxi.li@utexas.edu} % Your phone number and email
-%\address{(512)~$\cdot$~660~$\cdot$~2477 \\ wuxi.li@utexas.edu} % Your phone number and email
+\name{Wuxi Li}
+
+\address{University of Texas at Austin, Austin, TX 78712}
+\address{wuxi.li@utexas.edu \\ \url{http://www.wuxili.net}}
+\address{Ph.D. Student \\ Department of Eletrical and Computer Engineering}
+
 
 \begin{document}
 
-%----------------------------------------------------------------------------------------
-%	RESEARCH INTERESTS
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Research Interests}
-
-Physical design automation for VLSI
-
-\end{rSection}
-
-
-
-%----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Education}
-
-{\bf University of Texas at Austin, TX} \hfill {\em Jan. 2016 - Present} \\ 
-Ph.D. student, Department of Electrical and Computer Engineering \\
-Advisor: David Z. Pan \\
-GPA: 4.0/4.0
-
-{\bf University of Texas at Austin, TX} \hfill {\em Aug. 2013 - Dec. 2015} \\ 
-M.S., Department of Electrical and Computer Engineering \\
-GPA: 4.0/4.0
-
-{\bf Shanghai Jiao Tong University, Shanghai, China} \hfill {\em Sep. 2009 - Jul. 2013} \\ 
-B.S., School of Microelectronics \\
-GPA: 90.1/100.0
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Experience}
-
-\begin{rSubsection}{Cadence Design System}{May 2016 - Dec. 2016}{Software Development Intern}{Austin, TX}
-\item Fast buffer insertion
-\end{rSubsection}
-
-%------------------------------------------------
-
-\begin{rSubsection}{Apple Inc.}{Sep. 2014 - Dec. 2015}{Physical Design Intern}{Cupertino, CA \& Austin, TX}
-\item Low-power flip-flop design
-\item Static timing analysis
-\end{rSubsection}
-
-%------------------------------------------------
-
-\begin{rSubsection}{ARM Inc.}{May. 2014 - Aug. 2014}{Memory Design Intern}{Austin, TX}
-\item Fast memory leakage measurement
-\end{rSubsection}
-
-%------------------------------------------------
-
-\begin{rSubsection}{ECE Department, University of Texas at Austin}{Aug. 2013 - Present}{Graduate Student}{Austin, TX}
-\item Research Assistant
-\item Teaching Assistant of VLSI-II, Spring 2017
-\item Teaching Assistant of VLSI-II, Spring 2016
-\end{rSubsection}
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	PUBLICATION SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Publication}
-
-{\bf Journal Papers}
-\begin{itemize}
-    \item [{[J2]}] \textbf{Wuxi Li}, Shounak Dhar, and David Z. Pan, "UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2017. (accepted)
-	\item [{[J1]}] \textbf{Wuxi Li}, Hang Yuan, Wei Xu, Kunling Geng, Guoxing Wang, "An Optimization Procedure for Coil Design in a Dual Band Wireless Power and Data Transmission System", ECS Transactions (ECST), 2013.
-\end{itemize}
-\vspace{0.3in}
-{\bf Conference Papers}
-\begin{itemize}
-    \item [{[C3]}] Wei Ye, Yibo Lin, Xiaoqing Xu, \textbf{Wuxi Li}, Yiwei Fu, Yongsheng Sun, Canhui Zhan and David Z. Pan, "Placement Mitigation Techniques for Power Grid Electromigration", IEEE International Symposium on Low Power Electronics and Design (ISLPED), Taipei, Jul. 24-26, 2017. 
-	\item [{[C2]}] \textbf{Wuxi Li}, Shounak Dhah, and David Z. Pan, "UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2016. (\textbf{Invited Paper, 1st-Place Winner of ISPD'16 Contest})
-    \item [{[C1]}] Wei Xu, Xiyan Li, \textbf{Wuxi Li}, Hang Yuan, Guoxing Wang, "Live demonstration: An Optimization Software and a Design Case of a Novel Dual Band Wireless Power and Data Transmission System", IEEE International Symposium on Circuits and Systems (ISCAS), 2014.
-\end{itemize}
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	COURSES
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Courses}
-
-VLSI I                                           \hfill Prof. Michael Orshansky \\
-Computer Architecture                            \hfill Prof. Aater Suleman \\
-Optimization Issues in VLSI CAD                  \hfill Prof. David Pan \\
-VLSI II                                          \hfill Prof. Jacob Abraham \\
-Engineering Programming Languages                \hfill Prof. Craig Chase \\
-Verification of Digital Systems                  \hfill Dr. Jay Bhadra \\
-VLSI Physical Design Automation                  \hfill Prof. David Pan \\
-Database Management                              \hfill Dr. Stan Gunn \\
-High-Speed Computer Arithmetic                   \hfill Prof. Earl Swartzlander \\
-Metadata Generation/Interface and mass Datasets  \hfill Prof. Unmil Karadkar \\
-Optimization in Engineering Systems              \hfill Prof. Ross Baldick \\ 
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	SKILLS
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Skills}
-{\bf Programming Languages} \\
-C/C++, Perl, Python, Verilog
-
-{\bf EDA Tools} \\
-Cadence Virtuoso, Synopsys Design Compiler, Synopsys IC Compiler, Synopsys PrimeTime
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	HONORS AND AWARDS
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{HONORS AND AWARDS}
-
-1st-Place Winner of Clock-Aware FPGA Placement Contest               \hfill ISPD \hspace{0.1\textwidth} 2017 \\
-A. Richard Newton Young Student Fellow                               \hfill DAC  \hspace{0.1\textwidth} 2016 \\
-1st-Place Winner of Routability-Driven FPGA Placement Contest        \hfill ISPD \hspace{0.1\textwidth} 2016 \\
-Graduation with Honor, College Graduate Excellence Award of Shanghai \hfill SJTU \hspace{0.1\textwidth} 2013 \\
-Excellent Bachelor Dissertation Award (Top 39/3900+)                 \hfill SJTU \hspace{0.1\textwidth} 2013 \\
-Toshiba Electronics Scholarship                                      \hfill SJTU \hspace{0.1\textwidth} 2012 \\
-Academic Excellence Scholarship                                      \hfill SJTU \hspace{0.1\textwidth} 2011 \\
-Academic Excellence Scholarship                                      \hfill SJTU \hspace{0.1\textwidth} 2010 \\
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
+\input{doc/interest}
+\input{doc/education}
+\input{doc/experience}
+\input{doc/publication}
+%\input{doc/projects}
+\input{doc/courses}
+\input{doc/skills}
+\input{doc/award}
+%\input{doc/service}
+%\clearpage
+%\input{doc/reference}
+%\input{doc/reference_sim}
 
 \end{document}
+

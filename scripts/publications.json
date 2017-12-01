@@ -1,0 +1,129 @@
+[
+
+{
+    "iccad"  : ["IEEE/ACM International Conference on Computer-Aided Design (ICCAD)", "ICCAD"],
+    "aspdac" : ["IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)", "ASPDAC"],
+    "islped" : ["IEEE International Symposium on Low Power Electronics and Design (ISLPED)", "ISLPED"],
+    "iscas"  : ["IEEE International Symposium on Circuits and Systems (ISCAS)", "ISCAS"],
+    "tcad"   : ["IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)", "TCAD"],
+    "todaes" : ["ACM Transactions on Design Automation of Electronic Systems (TODAES)", "TODAES"],
+    "ecst"   : ["ECS Transactions (ECST)", "ECST"]
+},
+
+{
+    "name"            : "ISCAS14_DualBandTrans_Xu",
+    "type"            : "conference",
+    "title"           : "Live demonstration: An Optimization Software and a Design Case of a Novel Dual Band Wireless Power and Data Transmission System",
+    "authors"         : ["Xu, Wei", "Li, Xiyan", "Li, Wuxi", "Yuan, Hang", "Wang, Guoxing"],
+    "pub_in"          : "iscas",
+    "year"            : 2014,
+    "month"           : 6,
+    "day"             : [1, 5],
+    "location"        : "Melbourne VIC, Australia",
+    "pub_link"        : "http://ieeexplore.ieee.org/document/6865159/",
+    "pdf_link"        : "pdf/ISCAS14_DualBandTrans_Xu.pdf"
+},
+
+{
+    "name"            : "ICCAD16_UTPlaceF_Li",
+    "type"            : "conference",
+    "title"           : "UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing",
+    "authors"         : ["Li, Wuxi", "Dhar, Shounak", "Pan, David Z."],
+    "pub_in"          : "iccad",
+    "year"            : 2016,
+    "month"           : 11,
+    "day"             : [7, 10],
+    "location"        : "Austin, TX",
+    "pub_link"        : "http://ieeexplore.ieee.org/document/7827643/",
+    "pdf_link"        : "pdf/ICCAD16_UTPlaceF_Li.pdf",
+    "slides_link"     : "pdf/ICCAD16_UTPlaceF_Li_slides.pdf",
+    "hugo_suffix"     : "(**Invited Paper, 1st-Place Award of ISPD 2016 Contest**)",
+    "cv_suffix"       : "(\\textbf{Invited Paper, 1st-Place Award of ISPD 2016 Contest})",
+    "hugo_projects"   : ["utplacef"]
+},
+
+{
+    "name"            : "ISLPED2017_EMPlace_Ye",
+    "type"            : "conference",
+    "title"           : "Placement Mitigation Techniques for Power Grid Electromigration",
+    "authors"         : ["Ye, Wei", "Lin, Yibo", "Xu, Xiaoqing", "Li, Wuxi", "Fu, Yiwei", "Sun, Yongsheng", "Zhan, Canhui", "Pan, David Z."],
+    "pub_in"          : "islped",
+    "year"            : 2017,
+    "month"           : 7,
+    "day"             : [24, 26],
+    "location"        : "Taipei, Taiwan",
+    "pub_link"        : "http://ieeexplore.ieee.org/document/8009178/",
+    "pdf_link"        : "pdf/ISLPED17_EMPlace_Ye.pdf"
+},
+
+{
+    "name"            : "ICCAD17_UTPlaceF3_Li",
+    "type"            : "conference",
+    "title"           : "UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement",
+    "authors"         : ["Li, Wuxi", "Li, Meng", "Wang, Jiajun", "Pan, David Z."],
+    "pub_in"          : "iccad",
+    "year"            : 2017,
+    "month"           : 11,
+    "day"             : [13, 16],
+    "location"        : "Irvine, CA",
+    "pdf_link"        : "pdf/ICCAD17_UTPlaceF3_Li.pdf",
+    "slides_link"     : "pdf/ICCAD17_UTPlaceF3_Li_slides.pdf",
+    "hugo_suffix"     : "(**Invited Paper**)",
+    "cv_suffix"       : "(\\textbf{Invited Paper})"
+},
+
+{
+    "name"            : "ASPDAC2018_SplitManuf_Li",
+    "type"            : "conference",
+    "title"           : "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion",
+    "authors"         : ["Li, Meng", "Yu, Bei", "Lin, Yibo", "Xu, Xiaoqing", "Li, Wuxi", "Pan, David Z."],
+    "pub_in"          : "aspdac",
+    "year"            : 2018,
+    "month"           : 1,
+    "day"             : [22, 25],
+    "location"        : "Jeju, Korea",
+    "pdf_link"        : "pdf/ASPDAC18_SplitManuf_Li.pdf"
+},
+
+
+
+{
+    "name"            : "ECST13_DualBandTrans_Li",
+    "type"            : "journal",
+    "title"           : "An Optimization Procedure for Coil Design in a Dual Band Wireless Power and Data Transmission System",
+    "authors"         : ["Li, Wuxi", "Yuan, Hang", "Xu, Wei", "Geng, Kunling", "Wang, Guoxing"],
+    "pub_in"          : "ecst",
+    "year"            : 2013,
+    "month"           : 3,
+    "pub_link"        : "http://ecst.ecsdl.org/content/52/1/1091.short",
+    "pdf_link"        : "pdf/ECST13_DualBandTrans_Li.pdf"
+},
+
+{
+    "name"            : "TCAD17_UTPlaceF_Li",
+    "type"            : "journal",
+    "title"           : "UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing",
+    "authors"         : ["Li, Wuxi", "Dhar, Shounak", "Pan, David Z."],
+    "pub_in"          : "tcad",
+    "year"            : 2017,
+    "month"           : 7,
+    "pub_link"        : "http://ieeexplore.ieee.org/document/7984833/",
+    "pdf_link"        : "pdf/TCAD17_UTPlaceF_Li.pdf",
+    "hugo_suffix"     : "(Accepted)",
+    "cv_suffix"       : "(Accepted)",
+    "hugo_projects"   : ["utplacef"]
+},
+
+{
+    "name"            : "TODAES_UTPlaceF2_Li",
+    "type"            : "journal",
+    "title"           : "UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine",
+    "authors"         : ["Li, Wuxi", "Lin, Yibo","Li, Meng", "Dhar, Shounak", "Pan, David Z."],
+    "pub_in"          : "todaes",
+    "year"            : 2017,
+    "month"           : 12,
+    "hugo_suffix"     : "(Submitted)",
+    "cv_suffix"       : "(Submitted)"
+}
+
+]

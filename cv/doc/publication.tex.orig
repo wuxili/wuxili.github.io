@@ -1,0 +1,93 @@
+\begin{rSection}{Publications}
+
+
+
+\textbf{Journal Articles}
+        
+
+\begin{description}[font=\normalfont]
+%{{{
+    
+
+\item[{[J3]}]{
+        \textbf{Wuxi Li}, Yibo Lin, Meng Li, Shounak Dhar and David Z. Pan, 
+    ``UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine'', 
+    ACM Transactions on Design Automation of Electronic Systems (TODAES), 2017.
+    (Under Review, \textbf{1st-Place Award of ISPD 2017 Contest})
+}
+        
+
+\item[{[J2]}]{
+        \textbf{Wuxi Li}, Shounak Dhar and David Z. Pan, 
+    ``\href{http://ieeexplore.ieee.org/document/7984833/}{UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing}'', 
+    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2017.
+    
+}
+        
+
+\item[{[J1]}]{
+        \textbf{Wuxi Li}, Hang Yuan, Wei Xu, Kunling Geng and Guoxing Wang, 
+    ``\href{http://ecst.ecsdl.org/content/52/1/1091.short}{An Optimization Procedure for Coil Design in a Dual Band Wireless Power and Data Transmission System}'', 
+    ECS Transactions (ECST), Mar, 2013.
+    
+}
+        
+
+%}}}
+\end{description}
+    
+
+\textbf{Conference Papers}
+        
+
+\begin{description}[font=\normalfont]
+%{{{
+    
+
+\item[{[C5]}]{
+        Meng Li, Bei Yu, Yibo Lin, Xiaoqing Xu, \textbf{Wuxi Li} and David Z. Pan, 
+    ``A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion'', 
+    IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018.
+    (accepted)
+}
+        
+
+\item[{[C4]}]{
+        \textbf{Wuxi Li}, Meng Li, Jiajun Wang and David Z. Pan, 
+    ``UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement'', 
+    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Irvine, CA, Nov 13-16, 2017.
+    (\textbf{Invited Paper)},
+}
+        
+
+\item[{[C3]}]{
+        Wei Ye, Yibo Lin, Xiaoqing Xu, \textbf{Wuxi Li}, Yiwei Fu, Yongsheng Sun, Canhui Zhan and David Z. Pan, 
+    ``\href{http://ieeexplore.ieee.org/document/8009178/}{Placement Mitigation Techniques for Power Grid Electromigration}'', 
+    IEEE International Symposium on Low Power Electronics and Design (ISLPED), Taipei, Taiwan, Jul 24-26, 2017.
+    
+}
+        
+
+\item[{[C2]}]{
+        \textbf{Wuxi Li}, Shounak Dhar and David Z. Pan, 
+    ``\href{http://ieeexplore.ieee.org/document/7827643/}{UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing}'', 
+    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov 7-10, 2016.
+    (\textbf{Invited Paper, 1st-Place Award of ISPD 2016 Contest})
+}
+        
+
+\item[{[C1]}]{
+        Wei Xu, Xiyan Li, \textbf{Wuxi Li}, Hang Yuan and Guoxing Wang, 
+    ``\href{http://ieeexplore.ieee.org/document/6865159/}{Live demonstration: An Optimization Software and a Design Case of a Novel Dual Band Wireless Power and Data Transmission System}'', 
+    IEEE International Symposium on Circuits and Systems (ISCAS), Melbourne VIC, Australia, Jun 1-5, 2014.
+    
+}
+        
+
+%}}}
+\end{description}
+    
+
+\end{rSection}
+
+
