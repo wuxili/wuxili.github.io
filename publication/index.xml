@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wuxi Li</copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 -0600</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
+      <link>https://wuxili.github.io/publication/aspdac2018_splitmanuf_li/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/aspdac2018_splitmanuf_li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine</title>
