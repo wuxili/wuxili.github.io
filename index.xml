@@ -6,9 +6,18 @@
     <description>Recent content in Wuxi Li on Wuxi Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Wuxi Li</copyright>
+    <copyright>&amp;copy; 2018 Wuxi Li</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A New Paradigm for FPGA Placement without Explicit Packing</title>
+      <link>https://wuxili.github.io/publication/tcad18_fpgaplace_li/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/tcad18_fpgaplace_li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
