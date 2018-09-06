@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wuxi Li</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0500</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A New Paradigm for FPGA Placement without Explicit Packing</title>
       <link>https://wuxili.github.io/publication/tcad18_fpgaplacement_li/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://wuxili.github.io/publication/tcad18_fpgaplacement_li/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
       <link>https://wuxili.github.io/publication/tcad18_splitmanuf_li/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>https://wuxili.github.io/publication/tcad18_splitmanuf_li/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine</title>
       <link>https://wuxili.github.io/publication/todaes18_utplacef2_li/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://wuxili.github.io/publication/todaes18_utplacef2_li/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
       <link>https://wuxili.github.io/publication/aspdac18_splitmanuf_li/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 -0900</pubDate>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 -0600</pubDate>
       
       <guid>https://wuxili.github.io/publication/aspdac18_splitmanuf_li/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement</title>
       <link>https://wuxili.github.io/publication/iccad17_utplacef3_li/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 -0900</pubDate>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 -0600</pubDate>
       
       <guid>https://wuxili.github.io/publication/iccad17_utplacef3_li/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Placement Mitigation Techniques for Power Grid Electromigration</title>
       <link>https://wuxili.github.io/publication/islped17_emplace_ye/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 -0500</pubDate>
       
       <guid>https://wuxili.github.io/publication/islped17_emplace_ye/</guid>
       <description></description>
@@ -67,7 +67,7 @@
     <item>
       <title>UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing</title>
       <link>https://wuxili.github.io/publication/tcad17_utplacef_li/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0500</pubDate>
       
       <guid>https://wuxili.github.io/publication/tcad17_utplacef_li/</guid>
       <description></description>
@@ -76,7 +76,7 @@
     <item>
       <title>UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing</title>
       <link>https://wuxili.github.io/publication/iccad16_utplacef_li/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 -0900</pubDate>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
       
       <guid>https://wuxili.github.io/publication/iccad16_utplacef_li/</guid>
       <description></description>
@@ -85,7 +85,7 @@
     <item>
       <title>Live demonstration: An Optimization Software and a Design Case of a Novel Dual Band Wireless Power and Data Transmission System</title>
       <link>https://wuxili.github.io/publication/iscas14_dualbandtrans_xu/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 -0500</pubDate>
       
       <guid>https://wuxili.github.io/publication/iscas14_dualbandtrans_xu/</guid>
       <description></description>
@@ -94,7 +94,7 @@
     <item>
       <title>An Optimization Procedure for Coil Design in a Dual Band Wireless Power and Data Transmission System</title>
       <link>https://wuxili.github.io/publication/ecst13_dualbandtrans_li/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 -0900</pubDate>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 -0600</pubDate>
       
       <guid>https://wuxili.github.io/publication/ecst13_dualbandtrans_li/</guid>
       <description></description>
