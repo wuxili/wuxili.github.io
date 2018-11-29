@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Simultaneous Placement and Clock Tree Construction for Modern FPGAs</title>
+      <link>https://wuxili.github.io/publication/fpga19_clockplace_li/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/fpga19_clockplace_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A New Paradigm for FPGA Placement without Explicit Packing</title>
       <link>https://wuxili.github.io/publication/tcad18_fpgaplacement_li/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0500</pubDate>
