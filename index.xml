@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>High-Definition Routing Congestion Prediction for Large-Scale FPGAs</title>
+      <link>https://wuxili.github.io/publication/aspdac20_routecongest_alawieh/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/aspdac20_routecongest_alawieh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity</title>
+      <link>https://wuxili.github.io/publication/aspdac20_s3det_liu/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/aspdac20_s3det_liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs</title>
       <link>https://wuxili.github.io/publication/iccad19_elfplace_li/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 -0800</pubDate>
@@ -129,15 +147,6 @@
       <pubDate>Sun, 01 Jun 2014 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/iscas14_dualbandtrans_xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Optimization Procedure for Coil Design in a Dual Band Wireless Power and Data Transmission System</title>
-      <link>https://wuxili.github.io/publication/ecst13_dualbandtrans_li/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/ecst13_dualbandtrans_li/</guid>
       <description></description>
     </item>
     
