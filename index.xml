@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization</title>
+      <link>https://wuxili.github.io/publication/dac20_onnflops_gu/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/dac20_onnflops_gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs</title>
+      <link>https://wuxili.github.io/publication/tcad20_abcdplace_lin/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/tcad20_abcdplace_lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Definition Routing Congestion Prediction for Large-Scale FPGAs</title>
       <link>https://wuxili.github.io/publication/aspdac20_routecongest_alawieh/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 -0800</pubDate>
@@ -129,24 +147,6 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/tcad17_utplacef_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing</title>
-      <link>https://wuxili.github.io/publication/iccad16_utplacef_li/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/iccad16_utplacef_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Live demonstration: An Optimization Software and a Design Case of a Novel Dual Band Wireless Power and Data Transmission System</title>
-      <link>https://wuxili.github.io/publication/iscas14_dualbandtrans_xu/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/iscas14_dualbandtrans_xu/</guid>
       <description></description>
     </item>
     
