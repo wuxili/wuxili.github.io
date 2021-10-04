@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Wuxi Li</copyright>
-    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0800</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs</title>
+      <link>https://wuxili.github.io/publication/tcad21_abcdplace_meng/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0800</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/tcad21_abcdplace_meng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization</title>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/tcad17_utplacef_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing</title>
-      <link>https://wuxili.github.io/publication/iccad16_utplacef_li/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/iccad16_utplacef_li/</guid>
       <description></description>
     </item>
     

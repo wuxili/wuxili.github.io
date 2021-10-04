@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs</title>
+      <link>https://wuxili.github.io/publication/tcad21_abcdplace_meng/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0800</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/tcad21_abcdplace_meng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization</title>
       <link>https://wuxili.github.io/publication/dac20_onnflops_gu/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 -0700</pubDate>
@@ -138,15 +147,6 @@
       <pubDate>Mon, 24 Jul 2017 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/islped17_emplace_ye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing</title>
-      <link>https://wuxili.github.io/publication/tcad17_utplacef_li/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/tcad17_utplacef_li/</guid>
       <description></description>
     </item>
     
