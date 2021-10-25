@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement</title>
+      <link>https://wuxili.github.io/publication/tcad20_dreamplace_lin/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/tcad20_dreamplace_lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs</title>
       <link>https://wuxili.github.io/publication/tcad20_abcdplace_lin/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 -0800</pubDate>
@@ -138,15 +147,6 @@
       <pubDate>Mon, 13 Nov 2017 00:00:00 -0800</pubDate>
       
       <guid>https://wuxili.github.io/publication/iccad17_utplacef3_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Placement Mitigation Techniques for Power Grid Electromigration</title>
-      <link>https://wuxili.github.io/publication/islped17_emplace_ye/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/islped17_emplace_ye/</guid>
       <description></description>
     </item>
     
