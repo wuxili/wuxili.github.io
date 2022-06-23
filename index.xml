@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Global Placement Exploiting Soft 2D Regularity</title>
+      <link>https://wuxili.github.io/publication/ispd2022_gp2dregularity_fang/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/ispd2022_gp2dregularity_fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs</title>
       <link>https://wuxili.github.io/publication/tcad21_abcdplace_meng/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 -0800</pubDate>
@@ -139,15 +148,6 @@
 &lt;p&gt;&lt;a href = &#34;http://www.ispd.cc/contests/17/downloads/2016/index.html&#34;&gt;Download ISPD 2016 Benchmarks&lt;/a&gt; &lt;br /&gt;
 &lt;a href = &#34;http://www.ispd.cc/contests/16/ispd2016_contest.html&#34;&gt;ISPD 2016 Contest Homepage&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement</title>
-      <link>https://wuxili.github.io/publication/iccad17_utplacef3_li/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/iccad17_utplacef3_li/</guid>
-      <description></description>
     </item>
     
   </channel>
