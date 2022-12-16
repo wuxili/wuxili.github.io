@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Comprehensive Region Constraint Support in Electrostatics-Based Non-linear Global Placement</title>
+      <link>https://wuxili.github.io/publication/gtac2022_eplaceregconstr_li/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/gtac2022_eplaceregconstr_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement</title>
+      <link>https://wuxili.github.io/publication/gtac2022_difftimer_li/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/gtac2022_difftimer_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Global Placement Exploiting Soft 2D Regularity</title>
       <link>https://wuxili.github.io/publication/ispd2022_gp2dregularity_fang/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 -0700</pubDate>
@@ -125,29 +143,6 @@
       
       <guid>https://wuxili.github.io/publication/todaes18_utplacef2_li/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
-      <link>https://wuxili.github.io/publication/aspdac18_splitmanuf_li/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/aspdac18_splitmanuf_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UTPlaceF: An FPGA Placement Engine</title>
-      <link>https://wuxili.github.io/project/utplacef/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wuxili.github.io/project/utplacef/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://wuxili.github.io/file/UTPlaceF_TCAD17&#34;&gt;Download the Executable (TCAD 2017 Version)&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&#34;https://wuxili.github.io/file/tcad17_placement_solutions.tar.gz&#34;&gt;Download Our Placement Solutions on ISPD 2016 Benchmark Suite&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href = &#34;http://www.ispd.cc/contests/17/downloads/2016/index.html&#34;&gt;Download ISPD 2016 Benchmarks&lt;/a&gt; &lt;br /&gt;
-&lt;a href = &#34;http://www.ispd.cc/contests/16/ispd2016_contest.html&#34;&gt;ISPD 2016 Contest Homepage&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

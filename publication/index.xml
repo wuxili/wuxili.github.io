@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Wuxi Li</copyright>
-    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 -0700</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Comprehensive Region Constraint Support in Electrostatics-Based Non-linear Global Placement</title>
+      <link>https://wuxili.github.io/publication/gtac2022_eplaceregconstr_li/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/gtac2022_eplaceregconstr_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement</title>
+      <link>https://wuxili.github.io/publication/gtac2022_difftimer_li/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/gtac2022_difftimer_li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Global Placement Exploiting Soft 2D Regularity</title>
@@ -124,24 +142,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/todaes18_utplacef2_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
-      <link>https://wuxili.github.io/publication/aspdac18_splitmanuf_li/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/aspdac18_splitmanuf_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement</title>
-      <link>https://wuxili.github.io/publication/iccad17_utplacef3_li/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 -0800</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/iccad17_utplacef3_li/</guid>
       <description></description>
     </item>
     
