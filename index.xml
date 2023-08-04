@@ -11,29 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Systolic Array Placement on FPGAs</title>
+      <link>https://wuxili.github.io/publication/iccad2023_systolicarrayplace_hu/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/iccad2023_systolicarrayplace_hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism</title>
+      <link>https://wuxili.github.io/publication/dac2023_simulation_guo/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/dac2023_simulation_guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RapidStream 2.0: Automated Parallel Implementation of Latency Insensitive FPGA Designs Through Partial Reconfiguration</title>
       <link>https://wuxili.github.io/publication/trets_raoudstream2_guo/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/trets_raoudstream2_guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Comprehensive Region Constraint Support in Electrostatics-Based Non-linear Global Placement</title>
-      <link>https://wuxili.github.io/publication/gtac2022_eplaceregconstr_li/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/gtac2022_eplaceregconstr_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement</title>
-      <link>https://wuxili.github.io/publication/gtac2022_difftimer_li/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/gtac2022_difftimer_li/</guid>
       <description></description>
     </item>
     
