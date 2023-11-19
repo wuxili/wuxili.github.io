@@ -13,7 +13,7 @@
     <item>
       <title>Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement</title>
       <link>https://wuxili.github.io/publication/ispd2014_difftimingopt_li/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/ispd2014_difftimingopt_li/</guid>
       <description></description>
@@ -29,9 +29,18 @@
     </item>
     
     <item>
+      <title>The 2023 MLCAD FPGA Macro Placement Benchmark Design Suite and Contest Results</title>
+      <link>https://wuxili.github.io/publication/mlcad_contest_bustany/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/mlcad_contest_bustany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism</title>
       <link>https://wuxili.github.io/publication/dac2023_simulation_guo/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/dac2023_simulation_guo/</guid>
       <description></description>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://wuxili.github.io/publication/fpga19_clockplace_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Paradigm for FPGA Placement without Explicit Packing</title>
-      <link>https://wuxili.github.io/publication/tcad18_fpgaplacement_li/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/tcad18_fpgaplacement_li/</guid>
       <description></description>
     </item>
     
