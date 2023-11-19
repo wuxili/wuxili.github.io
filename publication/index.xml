@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Wuxi Li</copyright>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 -0800</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Calibration-Based Differentiable Timing Optimization in Non-linear Global Placement</title>
+      <link>https://wuxili.github.io/publication/ispd2014_difftimingopt_li/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 -0800</pubDate>
+      
+      <guid>https://wuxili.github.io/publication/ispd2014_difftimingopt_li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Systolic Array Placement on FPGAs</title>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>https://wuxili.github.io/publication/tcad18_fpgaplacement_li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion</title>
-      <link>https://wuxili.github.io/publication/tcad18_splitmanuf_li/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://wuxili.github.io/publication/tcad18_splitmanuf_li/</guid>
       <description></description>
     </item>
     
